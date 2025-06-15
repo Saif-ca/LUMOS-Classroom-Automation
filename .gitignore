@@ -1,0 +1,14 @@
+# Flutter
+flutter-app/build/
+flutter-app/.dart_tool/
+flutter-app/.idea/
+*.apk
+
+# Python
+__pycache__/
+*.pkl
+*.log
+
+# System
+.DS_Store
+Thumbs.db
