@@ -3,16 +3,16 @@
 #include <DHT.h>
 
 // Wi-Fi Credentials
-#define WIFI_SSID "Saif"
-#define WIFI_PASSWORD "Saif@2000"
+#define WIFI_SSID "hostspotname"
+#define WIFI_PASSWORD "hotspotPassword"
 
 // Firebase Credentials
-#define API_KEY "AIzaSyD9IAXYaPgtK7JT_eK2aCgW7OGdpe3q2Lc"
-#define DATABASE_URL "https://smart-college-app-ce2fb-default-rtdb.firebaseio.com/"
+#define API_KEY "add your api code"
+#define DATABASE_URL "firebase link"
 
 // Firebase Authentication
-#define USER_EMAIL "muhammedr7025@gmail.com"
-#define USER_PASSWORD "hallo123"
+#define USER_EMAIL "firebase mail id"
+#define USER_PASSWORD "password"
 
 // Pin Definitions
 #define DHT_PIN 4       //D2 (GPIO4)
